@@ -159,9 +159,13 @@ footer h4 {
   section.parallax h1 {
     color: #fff;
     text-align: center;
-    font-size: 40px;
+    font-size: 30px;
     z-index: 4;
     text-transform: uppercase;
+  }
+
+  .container {
+    width: 100%;
   }
 
   section.content p {
@@ -181,9 +185,9 @@ footer h4 {
   }
 
   .produtos img {
-    height: 350px;
-    width: 350px;
-    margin: 10px;
+    height: 200px;
+    width: 200px;
+    margin: 5px;
     border-radius: 30px;
   }
   figcaption {
